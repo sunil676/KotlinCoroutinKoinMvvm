@@ -17,4 +17,4 @@ Android Kotlin Coroutin Koin MVVM sample, to run this project add your api key i
 - [Material Design](https://material.io/)
   It provides the material deisgn for UI.
 
-<img src="https://github.com/sunil676/AndroidArchitectureSample/blob/master/Screenshot_20170917-143557.png" width="250" height="450"/><img src="https://github.com/sunil676/AndroidArchitectureSample/blob/master/Screenshot_20170917-143609.png" width="250" height="450"/>
+<img src="https://github.com/sunil676/KotlinCoroutinKoinMvvm/blob/master/device-2019-04-21-184322.png" width="250" height="450"/>
