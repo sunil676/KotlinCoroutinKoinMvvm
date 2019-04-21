@@ -18,3 +18,9 @@ Android Kotlin Coroutin Koin MVVM sample, to run this project add your api key i
   It provides the material deisgn for UI.
 
 <img src="https://github.com/sunil676/KotlinCoroutinKoinMvvm/blob/master/device-2019-04-21-184322.png" width="250" height="450"/>
+
+Copyright 2019 Sunil Gupta
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
